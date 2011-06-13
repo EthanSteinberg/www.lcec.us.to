@@ -1,0 +1,84 @@
+   img {border: none;margin: 10px;}
+   a {text-decoration:none;color:#f0e68c;}
+   h1 { font-family: 'Maven Pro', arial, serif; font-size: 3em;}
+   body
+   {
+      color: #ff0000;
+   }
+   .normalBg
+   {
+      background-image:url('http://lcec.us/new2/backroundv2.jpg');
+   } 
+
+   .specialBg
+   {
+      background-color: #808080;
+   }
+
+   #wrapper
+   {
+      margin: 0px auto;
+      width: 1000px;
+   }
+
+   #iframeWrapper
+   {
+      float:right;
+      width: 750px;
+   }
+
+   #realContent
+   {
+      background-color:#000000;
+      height: 730px;
+      overflow: auto;
+   }
+
+   .header
+   {
+      float:left;
+   }
+
+   .hoverable
+   {
+      background-color: red;
+   }
+
+   ul.menu
+   {
+      display:block;
+      list-style-type:none;
+   }
+
+   li.tabs *
+   {
+      margin: 0px;
+      padding: 0px;
+      display:block;
+   }
+
+   .centered
+   {
+      text-align: center;
+   }
+   
+   #studioPic
+   {
+      margin-bottom: 30px;
+   }
+
+   #bottomBar
+   {
+      clear: both;
+   }
+
+   #bottomBar img, .header img
+   {
+      margin: 0px;
+   }
+   
+   .centerColumn
+   {
+      margin-left: auto;
+      margin-right: auto;
+   }
