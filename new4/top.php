@@ -2,6 +2,7 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"> </script>
 <link rel="stylesheet" href="/new4/allpages.css" type="text/css" media="screen"> 
 <script type="text/javascript" src="/new4/hoverable.js"></script>
+<script type="text/javascript" src="/new4/autosize.js"></script>
    </head><body class="normalBg"><div id="wrapper">
    <div class="header">
       <ul class="menu">
